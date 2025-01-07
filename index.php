@@ -7,5 +7,6 @@
 </head>
 <body>
     
+<script src="assets/js/consultasAjax.js"></script>
 </body>
 </html>
